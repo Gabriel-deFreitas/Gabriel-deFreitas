@@ -6,10 +6,10 @@
 - 💡 Atualmente estudando React 
 - 🔭 A meta é me tornar desenvolvedor Front-end.
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/Gabriel-deFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-deFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-deFreitas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-deFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-deFreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>
