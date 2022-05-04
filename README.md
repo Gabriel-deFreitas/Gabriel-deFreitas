@@ -9,7 +9,7 @@
 
 <div style="display: flex">
   <a href="https://github.com/Gabriel-deFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-deFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>![1f4a1](https://user-images.githubusercontent.com/91075403/142915431-3120cde4-cd91-47e1-89f5-223cf5abc738.png)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-deFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-deFreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
